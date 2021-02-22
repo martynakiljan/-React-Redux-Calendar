@@ -4,7 +4,7 @@
 
 *<h3>a small application that stores meeting information using state :blue_book:</h3>*
 
->from the series: practicing REACT, REDUX and API,   :muscle:
+>from the series: practicing REACT, REDUX and API   :muscle:
 
 ----- 
 
