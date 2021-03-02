@@ -76,7 +76,7 @@ From now on, the API will be available at: http://localhost:3005/meetings,
 
 ----
 
-My next  project from REACT, REDUX    :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakil/-testing-SDK-for-GitHub-API)
+My next  project from REACT, REDUX    :arrow_right: :arrow_right: :arrow_right: [CLICK ME ](https://github.com/martynakiljan/currency-wallet-redux-)
 
 
 
